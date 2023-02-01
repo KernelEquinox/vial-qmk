@@ -1,0 +1,5 @@
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0x21, 0x25, 0xDA, 0xBE, 0x53, 0xF7, 0x69, 0x1A}
+#define RGB_MATRIX_FRAMEBUFFER_EFFECTS
+#define RGB_MATRIX_KEYPRESSES
